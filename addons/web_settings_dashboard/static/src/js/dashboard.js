@@ -15,7 +15,7 @@ var Dashboard = AbstractAction.extend({
     template: 'DashboardMain',
 
     init: function(){
-        this.all_dashboards = ['apps', 'invitations', 'share', 'translations', 'company'];
+        this.all_dashboards = ['invitations', 'translations', 'company'];
         return this._super.apply(this, arguments);
     },
 
@@ -45,13 +45,6 @@ var Dashboard = AbstractAction.extend({
         return loading_done;
     },
 
-    load_apps: function(data){
-        return  new DashboardApps(this, data.apps).replace(this.$('.o_web_settings_dashboard_apps'));
-    },
-
-    load_share: function(data){
-        return new DashboardShare(this, data.share).replace(this.$('.o_web_settings_dashboard_share'));
-    },
 
     load_invitations: function(data){
         return new DashboardInvitations(this, data.users_info).replace(this.$('.o_web_settings_dashboard_invitations'));
