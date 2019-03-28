@@ -98,7 +98,7 @@ var AbstractWebClient = Widget.extend(ServiceProviderMixin, KeyboardNavigationMi
         this._current_state = null;
         this.menu_dm = new concurrency.DropMisordered();
         this.action_mutex = new concurrency.Mutex();
-        this.set('title_part', {"zopenerp": "Odoo"});
+        this.set('title_part', {"zopenerp": "034-Fashion"});
     },
     start: function () {
         var self = this;
