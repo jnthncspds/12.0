@@ -2590,8 +2590,8 @@ msgstr ""
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Δημιουργήθηκε με <span>Odoo</span>"
+msgid "Powered by "
+msgstr "Δημιουργήθηκε με "
 
 #. module: web
 #. openerp-web

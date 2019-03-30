@@ -2591,8 +2591,8 @@ msgstr ""
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Toodetud <span>Odoo</span> poolt"
+msgid "Powered by "
+msgstr "Toodetud  poolt"
 
 #. module: web
 #. openerp-web

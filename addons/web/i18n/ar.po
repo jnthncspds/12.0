@@ -2602,7 +2602,7 @@ msgstr ""
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered by "
 msgstr "يعمل بواسطة<span>أودو</span>"
 
 #. module: web

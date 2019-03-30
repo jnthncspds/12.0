@@ -2600,8 +2600,8 @@ msgstr "Prosím použite tlačítko kopírovania pre nahlásenie chyby na suppor
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Poháňané <span>Odoo</span>"
+msgid "Powered by "
+msgstr "Poháňané "
 
 #. module: web
 #. openerp-web

@@ -2598,8 +2598,8 @@ msgstr "Bruk 'Kopier'-knappen for å rapportere feilen til brukerstøtte."
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Drevet av <span>Odoo</span>"
+msgid "Powered by "
+msgstr "Drevet av "
 
 #. module: web
 #. openerp-web

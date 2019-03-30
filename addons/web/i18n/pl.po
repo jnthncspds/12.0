@@ -2613,8 +2613,8 @@ msgstr "Użyj przycisku kopiuj, aby zgłosić błąd do usługi pomocy techniczn
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Powered by <span>Odoo</span>"
+msgid "Powered by "
+msgstr "Powered by "
 
 #. module: web
 #. openerp-web

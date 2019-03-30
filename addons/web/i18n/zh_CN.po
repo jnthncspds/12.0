@@ -2600,8 +2600,8 @@ msgstr "请使用复制按钮将错误报告给您的支持服务。"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "由<span>Odoo</span>提供支持"
+msgid "Powered by "
+msgstr "由提供支持"
 
 #. module: web
 #. openerp-web

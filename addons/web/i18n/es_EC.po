@@ -227,8 +227,8 @@ msgstr "<span class=\"oe_logo_edit\">Editar Datos de Compañía</span>"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid ""
+msgstr ""
 
 #. module: web
 #. openerp-web
@@ -1782,8 +1782,8 @@ msgstr "Desarrollado por"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Desarrollado por <span>Odoo</span>"
+msgid "Powered by "
+msgstr "Desarrollado por "
 
 #. module: web
 #. openerp-web
